@@ -45,6 +45,6 @@ I build **modern, scalable, and high-performance web applications**.
 ---
 
 ## 📫 Contact Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/)
+- LinkedIn: [www.linkedin.com/in/mostafa-pouladi](https://www.linkedin.com/)
 - Email: [mpouladi2@gmail.com](mailto:mpouladi2@gmail.com)
 
