@@ -19,11 +19,13 @@ I build modern, scalable, and high-performance web applications.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats (via Badges)
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MostafaPouladi4&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaPouladi4&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/github/followers/MostafaPouladi4?label=Followers&style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/MostafaPouladi4?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/repos/MostafaPouladi4?style=for-the-badge&color=blue" alt="Repositories"/>
+  <img src="https://img.shields.io/github/languages/top/MostafaPouladi4?style=for-the-badge&color=yellow" alt="Top Language"/>
 </p>
 
 ---
