@@ -9,12 +9,12 @@ I build modern, scalable, and high-performance web applications.
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/redux/764ABC" alt="Redux" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" width="40" height="40"/>
 </p>
 
 ---
@@ -22,8 +22,8 @@ I build modern, scalable, and high-performance web applications.
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MostafaPouladi4&show_icons=true&theme=radical&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaPouladi4&hide=html&hide_border=false&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MostafaPouladi4&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaPouladi4&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -32,5 +32,3 @@ I build modern, scalable, and high-performance web applications.
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/)
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
----
