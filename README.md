@@ -40,19 +40,11 @@ I build **modern, scalable, and high-performance web applications**.
   <img src="https://img.shields.io/github/languages/top/MostafaPouladi4?label=Top%20Language&style=for-the-badge&color=red&logo=github" alt="Top Language" />
 </p>
 
----
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [Portfolio Website](https://github.com/MostafaPouladi4/portfolio) | Personal portfolio to showcase projects | React, TailwindCSS |
-| [React Dashboard](https://github.com/MostafaPouladi4/react-dashboard) | Admin dashboard template | React, Redux, TailwindCSS |
-| [E-commerce App](https://github.com/MostafaPouladi4/nextjs-ecommerce) | Full-featured e-commerce app | Next.js, React, TailwindCSS |
 
 ---
 
 ## 📫 Contact Me
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/)
 - Email: [mpouladi2@gmail.com](mailto:mpouladi2@gmail.com)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+
